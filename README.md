@@ -1,4 +1,4 @@
-🐧  Minimalist Arch Linux Setup with i3
+ 🐧  Minimalist Arch Linux Setup with i3 super pretty.
 
 This is a clean and minimalist Arch Linux configuration using the i3 window manager. Designed for users who appreciate simplicity, speed, 
 and full control over their environment, this setup provides a lightweight, distraction-free experience without sacrificing functionality.
