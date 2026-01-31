@@ -5,4 +5,4 @@ Esta es una configuración limpia y minimalista de Arch Linux que utiliza el ges
 Tanto si eres desarrollador, usuario avanzado o simplemente alguien que disfruta de una estética minimalista, esta configuración está diseñada para ser cómoda, ágil y con un consumo eficiente de recursos del sistema, ideal para el uso diario tanto en portátiles como en estaciones de trabajo de escritorio.  🐧
 
 
-##Instalación de Arch Linux
+## Instalación de Arch Linux
